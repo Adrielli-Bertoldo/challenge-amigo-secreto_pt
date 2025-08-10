@@ -35,7 +35,7 @@ Com o **Secret Friend**, você digita os nomes dos seus amigos, adiciona na list
 
 - HTML5 para a estrutura
 - CSS3 para deixar tudo lindo
-- JavaScript Vanilla para a mágica acontecer
+- JavaScript para a mágica acontecer
 
 ---
 
