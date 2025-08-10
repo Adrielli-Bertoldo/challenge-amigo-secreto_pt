@@ -6,7 +6,7 @@ Quer organizar um sorteio de amigo secreto de forma super fácil, divertida e se
 
 ## Descrição
 
-Com o **Secret Friend**, você digita os nomes dos seus amigos, adiciona na lista e em um clique faz o sorteio do amigo secreto. Tudo com uma interface amigável, simples e alegre — perfeita para qualquer reunião, festa ou até aquele amigo secreto online!
+Com o **Secret Friend**, você digita os nomes dos seus amigos, adiciona na lista e em um clique faz o sorteio do amigo secreto. Tudo com uma interface amigável, simples e alegre, perfeita para qualquer reunião, festa ou até aquele amigo secreto online!
 
 ---
 
@@ -47,13 +47,4 @@ Com o **Secret Friend**, você digita os nomes dos seus amigos, adiciona na list
 
 ---
 
-## Imagem da aplicação
-
-<img src="./secret.png" alt="Secret Friend screenshot" style="max-width: 100%; height: auto; border-radius: 10px;" />
-
----
-
-Feito com ❤️
-```
-
-Se quiser, posso gerar o arquivo README.md pronto para você! Quer?
+Feito com ❤
