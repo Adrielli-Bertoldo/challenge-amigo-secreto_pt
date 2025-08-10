@@ -1,5 +1,3 @@
-![Secret Friend](./secret.png)
-
 # Secret Friend - Amigo Secreto 🎁🎉
 
 Quer organizar um sorteio de amigo secreto de forma super fácil, divertida e sem estresse? Esse é o seu app!
@@ -55,7 +53,7 @@ Com o **Secret Friend**, você digita os nomes dos seus amigos, adiciona na list
 
 ---
 
-Feito com ❤️ e muitos amigos secretos felizes!
+Feito com ❤️
 ```
 
 Se quiser, posso gerar o arquivo README.md pronto para você! Quer?
