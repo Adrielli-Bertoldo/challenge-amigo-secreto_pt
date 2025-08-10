@@ -1,54 +1,61 @@
-# Secret Friend - Amigo Secreto
+![Secret Friend](./secret.png)
 
-Um aplicativo web simples para organizar sorteios de amigo secreto de forma fácil e divertida.
+# Secret Friend - Amigo Secreto 🎁🎉
+
+Quer organizar um sorteio de amigo secreto de forma super fácil, divertida e sem estresse? Esse é o seu app!
 
 ---
 
 ## Descrição
 
-Este projeto permite que você digite os nomes dos seus amigos, adicione-os a uma lista e faça um sorteio para escolher o amigo secreto. A interface é amigável e intuitiva, com botões para adicionar nomes, sortear amigos e reiniciar o sorteio.
+Com o **Secret Friend**, você digita os nomes dos seus amigos, adiciona na lista e em um clique faz o sorteio do amigo secreto. Tudo com uma interface amigável, simples e alegre — perfeita para qualquer reunião, festa ou até aquele amigo secreto online!
 
 ---
 
 ## Funcionalidades
 
-- Adicionar nomes à lista de amigos.
-- Exibir a lista atualizada de amigos.
-- Sortear aleatoriamente um amigo da lista e removê-lo do sorteio.
-- Mostrar o resultado do sorteio de forma clara.
-- Botão para reiniciar o sorteio (recarrega a página).
+- ✍️ Adicionar nomes na lista de amigos.
+- 📋 Mostrar a lista atualizada dos participantes.
+- 🎲 Sortear o amigo secreto de forma aleatória.
+- 🎉 Mostrar o resultado do sorteio de um jeito claro e animado.
+- 🔄 Botão "Restart" para começar tudo de novo, sem complicação.
 
 ---
 
 ## Como usar
 
-1. Abra o arquivo `index.html` no seu navegador (Google Chrome, Firefox, Edge, etc).
-2. Digite o nome dos seus amigos no campo indicado.
-3. Clique no botão "Add" para adicionar o nome à lista.
-4. Quando quiser sortear, clique em "Draw friends".
-5. O amigo sorteado será exibido na lista de resultados.
-6. Use o botão "Restart" para reiniciar o sorteio e limpar a lista.
+1. Abra o arquivo `index.html` no navegador que preferir (Chrome, Firefox, Edge, etc).
+2. Digite o nome dos seus amigos no campo "Type a name".
+3. Clique em **Add** para inserir o nome na lista.
+4. Clique em **Draw friends** para fazer o sorteio.
+5. Veja quem foi sorteado de forma divertida na tela.
+6. Quer começar do zero? Clique em **Restart** para reiniciar o jogo.
 
 ---
 
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- HTML5 para a estrutura
+- CSS3 para deixar tudo lindo
+- JavaScript Vanilla para a mágica acontecer
 
 ---
 
 ## Executando localmente
 
-1. Clone este repositório ou baixe os arquivos para seu computador.
-2. Certifique-se de que os arquivos `index.html`, `app.js`, `style.css` e a pasta `assets` estejam na mesma pasta.
-3. Abra o arquivo `index.html` com seu navegador preferido.
+1. Clone o repositório ou baixe os arquivos para o seu computador.
+2. Garanta que os arquivos `index.html`, `app.js`, `style.css` e a imagem `secret.png` estejam todos juntos na mesma pasta.
+3. Abra o `index.html` com seu navegador favorito e divirta-se!
 
 ---
 
 ## Imagem da aplicação
+
+<img src="./secret.png" alt="Secret Friend screenshot" style="max-width: 100%; height: auto; border-radius: 10px;" />
+
 ---
 
-Feito com ❤️ 
+Feito com ❤️ e muitos amigos secretos felizes!
+```
 
+Se quiser, posso gerar o arquivo README.md pronto para você! Quer?
